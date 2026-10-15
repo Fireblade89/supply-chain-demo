@@ -1,0 +1,7 @@
+{
+  "name": "victim-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A build that *thinks* it is pulling the internal acme-utils",
+  "dependencies": { "acme-utils": "^1.0.0" }
+}

@@ -1,0 +1,4 @@
+node_modules/
+package-lock.json
+sandbox-home/.npm/
+sandbox-home/.npm-init.js

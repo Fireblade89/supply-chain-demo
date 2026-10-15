@@ -1,0 +1,6 @@
+{
+  "name": "acme-utils",
+  "version": "1.0.0",
+  "description": "ACME internal utils — only ever published to the PRIVATE registry",
+  "main": "index.js"
+}

